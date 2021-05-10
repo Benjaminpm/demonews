@@ -1,0 +1,52 @@
+.banner-area{
+	height: 100%;
+	width: 100%;
+}
+.menu-area{
+	position: static;
+}
+.mega-area{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	right: 0;
+	padding: 25px;
+	/*background-color: #B60206;*/
+}
+.dropdown-item{
+	padding: 1px;
+}
+.dropdown-item:hover {	
+	font-weight: bold;
+}
+/*.fa-bars:hover {
+	color: #000000;
+	font-weight: bold;
+}*/
+.fa-bars:hover {
+	color: #000000;
+	font-weight: bold;
+}
+/*.subnav-toggle:hover {
+	color: #ff0000;
+}*/
+
+/*h5{
+	font-family: BigNoodleTitling;
+	letter-spacing: 2px;
+	font-weight: 900;
+}*/
+.navbar{
+	margin: 0% 0% 1% 0%;
+	/*background-color: #B60206;*/	
+}
+
+h1, h2, h3, h4, h5, h6 {       
+    font-weight: bold;
+}
+ul li a:hover {
+  color: orange;
+}
+
+
+
